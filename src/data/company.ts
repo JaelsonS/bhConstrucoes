@@ -27,7 +27,7 @@ export const company = {
     'https://www.google.com/maps/dir/?api=1&destination=Parque+Industrial+Moinho+do+Calhau+Armaz%C3%A9m+2,+3045-421+Ribeira+de+Frades,+Coimbra',
   osmEmbedUrl:
     'https://www.openstreetmap.org/export/embed.html?bbox=-8.512%2C40.185%2C-8.472%2C40.205&layer=mapnik&marker=40.195%2C-8.492',
-  siteUrl: 'https://www.bhccop.pt',
+  siteUrl: 'https://bh-construcoes.vercel.app',
 } as const
 
 export function getSiteUrl() {
